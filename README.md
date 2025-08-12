@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Daniel Lonckri  
+# Hi there 👋, my name is Daniel Lankry 
 
 [LinkedIn Profile](https://www.linkedin.com/in/daniel-lankry-48b633226/) • [GitHub Profile](https://github.com/lankdaniel14) 
 ---
