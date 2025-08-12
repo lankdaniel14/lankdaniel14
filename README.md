@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋, my name is Daniel Lonckri  
 
-<!--
-**lankdaniel14/lankdaniel14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn Profile](https://www.linkedin.com/in/daniel-lankry-48b633226/) • [GitHub Profile](https://github.com/lankdaniel14) 
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About me
+![Profile Views](https://komarev.com/ghpvc/?username=daniel-lonckri&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from Israel 🇮🇱, currently living in Holon and studying Computer Science at HIT 🎓.  
+I’m passionate about **Cybersecurity**, **Machine Learning**, and building **AI-driven applications** 💻.  
+When I’m not coding, you’ll find me training in the gym 🏋️, running 🏃‍♂️, playing hockey 🏒, or exploring photography 📸.  
+
+---
+
+## 🔭 I'm currently working on
+- **ShiftMate** – AI-powered shift management app for restaurant managers and team leads 🍽️  
+- **F1 Driver Performance Analysis** – Machine Learning project predicting race outcomes 🏎️  
+- Personal cybersecurity labs & challenges 🛡️  
+
+---
+
+## 🌱 I’m currently learning
+- Advanced **Machine Learning** techniques 🤖  
+- Practical **Cybersecurity** tools & methods 🔐  
+- **Algorithms & Data Structures** for high-performance computing 📊  
+
+---
+
+## 🔨 I've contributed to
+- Academic ML projects & open-source exercises  
+- Student-led tech initiatives at HIT  
+
+---
+
+## 📫 How to reach me
+- **Email:** lankrydaniel7@gmail.com 
+- **LinkedIn:** [linkedin.com/in/daniel-lankry](https://www.linkedin.com/in/daniel-lankry-48b633226/)  
+
+---
+> “Building secure, intelligent solutions — one commit at a time.”
